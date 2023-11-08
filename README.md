@@ -1,1 +1,5 @@
 - 👋 Hi, I’m @RHarvey6
+- I am currently a senior computer science major at St. Olaf college graduating May 2024
+- I like running 👟 and playing the viola 🎻
+- I have a few projects here that you should check out, like my weather newsletter 🌦️
+- Feel free to check out the code on my github, or use this link to see the website ➜ rharvey6.github.io/WeatherNewsLetter
